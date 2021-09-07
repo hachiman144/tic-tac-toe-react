@@ -8,7 +8,7 @@ I have to make shotcuts specially in creating proper object for managing the gam
 Also I have to simplify the logic in detemining the winner. 
 
 ### Error cases
-As far as errors are conmcern. I already handled errors that could prevent the game from running.
+As far as errors are concern. I already handled errors that could prevent the game from running.
 Runtime errors or bug could occur in the game. Which can prevent it from running desirably
 
 ### Installation
