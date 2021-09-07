@@ -16,7 +16,7 @@ This set of steps currently only starts up the *dev* server, but it should suffi
 1. Make sure you have Node.js and NPM installed
 2. Clone this repository.
  ```bash
- git clone https://github.com/mmatthews06/react-tic-tac-toe.git
+ git clone https://github.com/hachiman144/tic-tac-toe-react.git
  ```
 3. Install Node modules:
  ```bash
