@@ -8,7 +8,7 @@ I have to make shotcuts specially in creating proper object for managing the gam
 Also I have to simplify the logic in detemining the winner. 
 
 ### Error cases
-As far as errors are conmcern. I already handled errors that could prevent the game from running.
+As far as errors are concern. I already handled errors that could prevent the game from running.
 Runtime errors or bug could occur in the game. Which can prevent it from running desirably
 
 ### Installation
@@ -16,7 +16,7 @@ This set of steps currently only starts up the *dev* server, but it should suffi
 1. Make sure you have Node.js and NPM installed
 2. Clone this repository.
  ```bash
- git clone https://github.com/mmatthews06/react-tic-tac-toe.git
+ git clone https://github.com/hachiman144/tic-tac-toe-react.git
  ```
 3. Install Node modules:
  ```bash
